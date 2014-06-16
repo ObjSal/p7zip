@@ -3,6 +3,7 @@
 * Binaries are available in the ./bin diectory
 * To compile for OSX just run `make all_test`
 * No source code has been modified, everything is original except the makefile for OSX.
+* Run `sudo cp 7za /usr/bin/` from the terminal to make 7za available from the terminal in all directories.
 
 	p7zip 9.20
 	==========
